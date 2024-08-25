@@ -1,4 +1,4 @@
-Hi, I'm Divyansh! 👋
+<!--Hi, I'm Divyansh! 👋
 
 Welcome to my GitHub profile! I’m Divyansh, a Developer passionate about Web Technologies. Here, you’ll find a collection of my projects and contributions to various open-source endeavors.
 
@@ -17,7 +17,7 @@ Feel free to browse my repositories and connect with me if you’d like to colla
 ##
 
 <h1 align="center">  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   Welcome to Shivanand Vishwakarma's profile!
+   Welcome to Divyansh Bansal's profile!
 </h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -66,40 +66,25 @@ Feel free to browse my repositories and connect with me if you’d like to colla
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 </p>
 <br>
 <br>
 
-## ✨GitHub Stats  : 
-<div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Shiva7781&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva7781&theme=tokyonight" />
-</div>
 
 <br/>  
 
 ## 🤝🏻 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/shivanand-vishwakarma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivanand-vishwakarma/" height="30" width="40" /></a>
-<a href="https://medium.com/@shivavishwakarma7781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivavishwakarma7781" height="30" width="40" /></a>
-<a href="mailto:shivavishwakarma7781@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+<a href="https://www.linkedin.com/in/divyanshbansal56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-bansal/" height="30" width="40" /></a>
+<a href="https://linktr.ee/divyanshbansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="divyanshbansal" height="30" width="40" /></a>
+<a href="mailto:divyanshbansal56@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 <br>
 
-## Aaahhhhhh !! My contribution grapgh is getting eaten... 😶
 
-<p> 
- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
-</p>
-
-<!-- addded on 4rd May 2022 -->
-
-#### **Visitor Count**
-
-![Visitor Count](https://profile-counter.glitch.me/{Shiva7781}/count.svg)
