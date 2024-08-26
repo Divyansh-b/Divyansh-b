@@ -38,7 +38,7 @@ Feel free to browse my repositories and connect with me if you’d like to colla
 
 ## About Me
 
-- Meticulous and motivated undergraduate student. I am an open-source enthusiast.
+- Meticulous and motivated undergraduate student. I am an enthusiast for technologies.
 - Currently learning Full Stack Web Development and improving my skills with MERN stack.
 - Exploring new technologies and quick hacks.
 - ☕ `mood == 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
