@@ -1,4 +1,4 @@
-<!--Hi, I'm Divyansh! 👋
+<!--Hi, I'm Divyanshh! 👋
 
 Welcome to my GitHub profile! I’m Divyansh, a Developer passionate about Web Technologies. Here, you’ll find a collection of my projects and contributions to various open-source endeavors.
 
